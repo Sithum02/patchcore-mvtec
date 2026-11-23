@@ -1,0 +1,278 @@
+{
+ "wrn50": {
+  "bottle": {
+   "share": 0.011912425048649311,
+   "channel": 407,
+   "channel_absmax": 1.1181640625,
+   "median_absmax": 0.322021484375
+  },
+  "cable": {
+   "share": 0.005814576055854559,
+   "channel": 66,
+   "channel_absmax": 0.88623046875,
+   "median_absmax": 0.441650390625
+  },
+  "capsule": {
+   "share": 0.01682082936167717,
+   "channel": 608,
+   "channel_absmax": 1.3583984375,
+   "median_absmax": 0.3115234375
+  },
+  "carpet": {
+   "share": 0.007537914905697107,
+   "channel": 1334,
+   "channel_absmax": 0.51318359375,
+   "median_absmax": 0.2049560546875
+  },
+  "grid": {
+   "share": 0.051878686994314194,
+   "channel": 728,
+   "channel_absmax": 1.951171875,
+   "median_absmax": 0.2548828125
+  },
+  "hazelnut": {
+   "share": 0.00635511614382267,
+   "channel": 1176,
+   "channel_absmax": 0.701171875,
+   "median_absmax": 0.451416015625
+  },
+  "leather": {
+   "share": 0.012005512602627277,
+   "channel": 868,
+   "channel_absmax": 1.0634765625,
+   "median_absmax": 0.1854248046875
+  },
+  "metal_nut": {
+   "share": 0.00834973156452179,
+   "channel": 978,
+   "channel_absmax": 1.044921875,
+   "median_absmax": 0.4326171875
+  },
+  "pill": {
+   "share": 0.01039857231080532,
+   "channel": 957,
+   "channel_absmax": 1.1103515625,
+   "median_absmax": 0.342041015625
+  },
+  "screw": {
+   "share": 0.008397232741117477,
+   "channel": 1169,
+   "channel_absmax": 1.98828125,
+   "median_absmax": 0.400390625
+  },
+  "tile": {
+   "share": 0.008811560459434986,
+   "channel": 223,
+   "channel_absmax": 0.96484375,
+   "median_absmax": 0.263671875
+  },
+  "toothbrush": {
+   "share": 0.011551899835467339,
+   "channel": 687,
+   "channel_absmax": 1.21875,
+   "median_absmax": 0.334716796875
+  },
+  "transistor": {
+   "share": 0.010780496522784233,
+   "channel": 1388,
+   "channel_absmax": 1.2568359375,
+   "median_absmax": 0.372314453125
+  },
+  "wood": {
+   "share": 0.006902020890265703,
+   "channel": 1132,
+   "channel_absmax": 0.85546875,
+   "median_absmax": 0.261474609375
+  },
+  "zipper": {
+   "share": 0.03436523675918579,
+   "channel": 1181,
+   "channel_absmax": 1.5595703125,
+   "median_absmax": 0.2344970703125
+  }
+ },
+ "convnext_t": {
+  "bottle": {
+   "share": 0.6918702721595764,
+   "channel": 223,
+   "channel_absmax": 835.5,
+   "median_absmax": 4.5078125
+  },
+  "cable": {
+   "share": 0.9202141761779785,
+   "channel": 223,
+   "channel_absmax": 1085.0,
+   "median_absmax": 5.63671875
+  },
+  "capsule": {
+   "share": 0.9568524360656738,
+   "channel": 223,
+   "channel_absmax": 1428.0,
+   "median_absmax": 4.81640625
+  },
+  "carpet": {
+   "share": 0.9753086566925049,
+   "channel": 223,
+   "channel_absmax": 1202.0,
+   "median_absmax": 3.4609375
+  },
+  "grid": {
+   "share": 0.9364005327224731,
+   "channel": 223,
+   "channel_absmax": 1262.0,
+   "median_absmax": 4.0078125
+  },
+  "hazelnut": {
+   "share": 0.9518236517906189,
+   "channel": 223,
+   "channel_absmax": 1535.0,
+   "median_absmax": 5.453125
+  },
+  "leather": {
+   "share": 0.9601243734359741,
+   "channel": 223,
+   "channel_absmax": 1361.0,
+   "median_absmax": 3.5625
+  },
+  "metal_nut": {
+   "share": 0.8516521453857422,
+   "channel": 223,
+   "channel_absmax": 1140.0,
+   "median_absmax": 5.72265625
+  },
+  "pill": {
+   "share": 0.8808006644248962,
+   "channel": 223,
+   "channel_absmax": 1097.0,
+   "median_absmax": 4.81640625
+  },
+  "screw": {
+   "share": 0.9457131028175354,
+   "channel": 223,
+   "channel_absmax": 1697.0,
+   "median_absmax": 5.84765625
+  },
+  "tile": {
+   "share": 0.9292460083961487,
+   "channel": 223,
+   "channel_absmax": 1026.0,
+   "median_absmax": 3.837890625
+  },
+  "toothbrush": {
+   "share": 0.9685051441192627,
+   "channel": 223,
+   "channel_absmax": 1517.0,
+   "median_absmax": 4.44921875
+  },
+  "transistor": {
+   "share": 0.8782563209533691,
+   "channel": 223,
+   "channel_absmax": 1109.0,
+   "median_absmax": 5.06640625
+  },
+  "wood": {
+   "share": 0.907971978187561,
+   "channel": 223,
+   "channel_absmax": 967.5,
+   "median_absmax": 3.943359375
+  },
+  "zipper": {
+   "share": 0.9363549947738647,
+   "channel": 223,
+   "channel_absmax": 1143.0,
+   "median_absmax": 4.25
+  }
+ },
+ "dinov2_s": {
+  "bottle": {
+   "share": 0.04149577394127846,
+   "channel": 662,
+   "channel_absmax": 10.2890625,
+   "median_absmax": 0.6884765625
+  },
+  "cable": {
+   "share": 0.016082627698779106,
+   "channel": 753,
+   "channel_absmax": 3.201171875,
+   "median_absmax": 0.689453125
+  },
+  "capsule": {
+   "share": 0.022929633036255836,
+   "channel": 662,
+   "channel_absmax": 8.03125,
+   "median_absmax": 0.7001953125
+  },
+  "carpet": {
+   "share": 0.03201417997479439,
+   "channel": 463,
+   "channel_absmax": 8.328125,
+   "median_absmax": 0.638671875
+  },
+  "grid": {
+   "share": 0.01926989108324051,
+   "channel": 662,
+   "channel_absmax": 7.04296875,
+   "median_absmax": 0.6728515625
+  },
+  "hazelnut": {
+   "share": 0.01401672512292862,
+   "channel": 501,
+   "channel_absmax": 5.9609375,
+   "median_absmax": 0.80078125
+  },
+  "leather": {
+   "share": 0.033518172800540924,
+   "channel": 662,
+   "channel_absmax": 8.09375,
+   "median_absmax": 0.63671875
+  },
+  "metal_nut": {
+   "share": 0.017651718109846115,
+   "channel": 662,
+   "channel_absmax": 8.59375,
+   "median_absmax": 0.69873046875
+  },
+  "pill": {
+   "share": 0.015126457437872887,
+   "channel": 538,
+   "channel_absmax": 3.203125,
+   "median_absmax": 0.6943359375
+  },
+  "screw": {
+   "share": 0.013277161866426468,
+   "channel": 662,
+   "channel_absmax": 9.1796875,
+   "median_absmax": 0.77197265625
+  },
+  "tile": {
+   "share": 0.033058084547519684,
+   "channel": 662,
+   "channel_absmax": 7.64453125,
+   "median_absmax": 0.64892578125
+  },
+  "toothbrush": {
+   "share": 0.04807249456644058,
+   "channel": 522,
+   "channel_absmax": 5.609375,
+   "median_absmax": 0.63232421875
+  },
+  "transistor": {
+   "share": 0.0256065521389246,
+   "channel": 662,
+   "channel_absmax": 9.65625,
+   "median_absmax": 0.64306640625
+  },
+  "wood": {
+   "share": 0.027002990245819092,
+   "channel": 463,
+   "channel_absmax": 9.296875,
+   "median_absmax": 0.671875
+  },
+  "zipper": {
+   "share": 0.018861141055822372,
+   "channel": 463,
+   "channel_absmax": 8.2578125,
+   "median_absmax": 0.66162109375
+  }
+ }
+}

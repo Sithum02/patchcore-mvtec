@@ -1,0 +1,198 @@
+wrn50/cable: image AUROC 99.7  pixel AUROC 98.5  (10% coreset)  16-shot 97.6  [239 s]
+wrn50/capsule: image AUROC 97.5  pixel AUROC 98.7  (10% coreset)  16-shot 86.7  [76 s]
+wrn50/carpet: image AUROC 98.8  pixel AUROC 98.8  (10% coreset)  16-shot 99.1  [84 s]
+wrn50/grid: image AUROC 97.7  pixel AUROC 97.6  (10% coreset)  16-shot 78.5  [59 s]
+wrn50/hazelnut: image AUROC 100.0  pixel AUROC 98.4  (10% coreset)  16-shot 98.8  [515 s]
+wrn50/leather: image AUROC 100.0  pixel AUROC 99.1  (10% coreset)  16-shot 100.0  [77 s]
+wrn50/metal_nut: image AUROC 99.9  pixel AUROC 98.5  (10% coreset)  16-shot 98.5  [62 s]
+wrn50/pill: image AUROC 94.7  pixel AUROC 97.6  (10% coreset)  16-shot 91.1  [94 s]
+wrn50/screw: image AUROC 98.1  pixel AUROC 98.9  (10% coreset)  16-shot 64.3  [373 s]
+wrn50/tile: image AUROC 98.6  pixel AUROC 95.3  (10% coreset)  16-shot 98.6  [67 s]
+wrn50/toothbrush: image AUROC 99.4  pixel AUROC 98.6  (10% coreset)  16-shot 99.4  [19 s]
+wrn50/transistor: image AUROC 99.8  pixel AUROC 97.7  (10% coreset)  16-shot 99.7  [63 s]
+wrn50/wood: image AUROC 99.0  pixel AUROC 93.8  (10% coreset)  16-shot 98.8  [64 s]
+wrn50/zipper: image AUROC 99.4  pixel AUROC 98.3  (10% coreset)  16-shot 98.6  [80 s]
+convnext_t/bottle: image AUROC 100.0  pixel AUROC 97.3  (10% coreset)  16-shot 99.3  [44 s]
+convnext_t/cable: image AUROC 99.0  pixel AUROC 97.7  (10% coreset)  16-shot 94.3  [69 s]
+convnext_t/capsule: image AUROC 86.7  pixel AUROC 97.9  (10% coreset)  16-shot 75.9  [62 s]
+convnext_t/carpet: image AUROC 100.0  pixel AUROC 98.9  (10% coreset)  16-shot 100.0  [72 s]
+convnext_t/grid: image AUROC 83.0  pixel AUROC 94.1  (10% coreset)  16-shot 60.0  [52 s]
+convnext_t/hazelnut: image AUROC 100.0  pixel AUROC 98.5  (10% coreset)  16-shot 99.1  [103 s]
+convnext_t/leather: image AUROC 100.0  pixel AUROC 98.1  (10% coreset)  16-shot 97.5  [64 s]
+convnext_t/metal_nut: image AUROC 98.2  pixel AUROC 96.7  (10% coreset)  16-shot 93.1  [51 s]
+convnext_t/pill: image AUROC 91.3  pixel AUROC 97.2  (10% coreset)  16-shot 84.5  [77 s]
+convnext_t/screw: image AUROC 94.3  pixel AUROC 95.9  (10% coreset)  16-shot 61.7  [85 s]
+convnext_t/tile: image AUROC 98.8  pixel AUROC 93.8  (10% coreset)  16-shot 98.6  [58 s]
+convnext_t/toothbrush: image AUROC 90.0  pixel AUROC 97.1  (10% coreset)  16-shot 87.3  [17 s]
+convnext_t/transistor: image AUROC 99.4  pixel AUROC 98.0  (10% coreset)  16-shot 98.1  [55 s]
+convnext_t/wood: image AUROC 99.8  pixel AUROC 91.3  (10% coreset)  16-shot 98.9  [57 s]
+convnext_t/zipper: image AUROC 88.8  pixel AUROC 92.0  (10% coreset)  16-shot 81.5  [65 s]
+dinov2_s/bottle: image AUROC 100.0  pixel AUROC 97.6  (10% coreset)  16-shot 99.8  [22 s]
+dinov2_s/cable: image AUROC 95.7  pixel AUROC 95.0  (10% coreset)  16-shot 93.3  [42 s]
+dinov2_s/capsule: image AUROC 93.7  pixel AUROC 97.7  (10% coreset)  16-shot 84.9  [38 s]
+dinov2_s/carpet: image AUROC 99.9  pixel AUROC 98.8  (10% coreset)  16-shot 99.9  [38 s]
+dinov2_s/grid: image AUROC 99.0  pixel AUROC 96.4  (10% coreset)  16-shot 98.3  [22 s]
+dinov2_s/hazelnut: image AUROC 99.8  pixel AUROC 99.0  (10% coreset)  16-shot 98.0  [44 s]
+dinov2_s/leather: image AUROC 100.0  pixel AUROC 97.5  (10% coreset)  16-shot 100.0  [35 s]
+dinov2_s/metal_nut: image AUROC 99.5  pixel AUROC 98.0  (10% coreset)  16-shot 98.9  [27 s]
+dinov2_s/pill: image AUROC 96.0  pixel AUROC 98.3  (10% coreset)  16-shot 93.4  [41 s]
+dinov2_s/screw: image AUROC 90.0  pixel AUROC 92.0  (10% coreset)  16-shot 71.1  [39 s]
+dinov2_s/tile: image AUROC 99.6  pixel AUROC 94.1  (10% coreset)  16-shot 99.8  [31 s]
+dinov2_s/toothbrush: image AUROC 98.3  pixel AUROC 97.7  (10% coreset)  16-shot 97.1  [12 s]
+dinov2_s/transistor: image AUROC 95.2  pixel AUROC 96.8  (10% coreset)  16-shot 90.0  [30 s]
+dinov2_s/wood: image AUROC 98.9  pixel AUROC 91.4  (10% coreset)  16-shot 98.7  [28 s]
+dinov2_s/zipper: image AUROC 99.2  pixel AUROC 93.2  (10% coreset)  16-shot 98.6  [33 s]
+## Per category, 10% coreset (image AUROC / pixel AUROC, %)
+| category | WideResNet-50 (paper) image / pixel | ConvNeXt-T image / pixel | DINOv2 ViT-S/14 image / pixel |
+|---|---|---|---|
+| bottle | 100.0 / 98.3 | 100.0 / 97.3 | 100.0 / 97.6 |
+| cable | 99.7 / 98.5 | 99.0 / 97.7 | 95.7 / 95.0 |
+| capsule | 97.5 / 98.7 | 86.7 / 97.9 | 93.7 / 97.7 |
+| carpet | 98.8 / 98.8 | 100.0 / 98.9 | 99.9 / 98.8 |
+| grid | 97.7 / 97.6 | 83.0 / 94.1 | 99.0 / 96.4 |
+| hazelnut | 100.0 / 98.4 | 100.0 / 98.5 | 99.8 / 99.0 |
+| leather | 100.0 / 99.1 | 100.0 / 98.1 | 100.0 / 97.5 |
+| metal_nut | 99.9 / 98.5 | 98.2 / 96.7 | 99.5 / 98.0 |
+| pill | 94.7 / 97.6 | 91.3 / 97.2 | 96.0 / 98.3 |
+| screw | 98.1 / 98.9 | 94.3 / 95.9 | 90.0 / 92.0 |
+| tile | 98.6 / 95.3 | 98.8 / 93.8 | 99.6 / 94.1 |
+| toothbrush | 99.4 / 98.6 | 90.0 / 97.1 | 98.3 / 97.7 |
+| transistor | 99.8 / 97.7 | 99.4 / 98.0 | 95.2 / 96.8 |
+| wood | 99.0 / 93.8 | 99.8 / 91.3 | 98.9 / 91.4 |
+| zipper | 99.4 / 98.3 | 88.8 / 92.0 | 99.2 / 93.2 |
+| **mean** | **98.8 / 97.9** | **95.3 / 96.3** | **97.6 / 96.2** |
+## Coreset size: accuracy vs memory vs speed (means over categories)
+| backbone | coreset | mean image AUROC | mean pixel AUROC | mean bank size (patches) | ms / image |
+|---|---|---|---|---|---|
+| WideResNet-50 (paper) | 1% | 98.7 | 97.7 | 1,896 | 8.7 |
+| WideResNet-50 (paper) | 10% | 98.8 | 97.9 | 18,967 | 46.3 |
+| ConvNeXt-T | 1% | 94.3 | 95.0 | 1,896 | 2.9 |
+| ConvNeXt-T | 10% | 95.3 | 96.3 | 18,967 | 14.2 |
+| DINOv2 ViT-S/14 | 1% | 97.1 | 95.6 | 619 | 1.2 |
+| DINOv2 ViT-S/14 | 10% | 97.6 | 96.2 | 6,193 | 2.2 |
+## Few-shot: mean image AUROC with k good training images (3 random draws)
+| backbone | 1-shot | 2-shot | 4-shot | 8-shot | 16-shot | all images (10% coreset) |
+|---|---|---|---|---|---|---|
+| WideResNet-50 (paper) | 84.3 | 86.6 | 89.1 | 92.1 | 94.0 | 98.8 |
+| ConvNeXt-T | 68.7 | 75.9 | 81.0 | 85.9 | 88.7 | 95.3 |
+| DINOv2 ViT-S/14 | 88.8 | 90.3 | 91.8 | 93.7 | 94.8 | 97.6 |
+figures in results/figures/
+wrn50/bottle: image AUROC 100.0  pixel AUROC 98.3  (10% coreset)  16-shot 100.0  [52 s]
+wrn50/cable: image AUROC 99.7  pixel AUROC 98.5  (10% coreset)  16-shot 97.6  [85 s]
+convnext_t_std/bottle: image AUROC 100.0  pixel AUROC 98.1  (10% coreset)  16-shot 100.0  [44 s]
+convnext_t_std/cable: image AUROC 99.8  pixel AUROC 98.2  (10% coreset)  16-shot 99.0  [69 s]
+convnext_t_std/capsule: image AUROC 95.1  pixel AUROC 98.7  (10% coreset)  16-shot 86.3  [65 s]
+convnext_t_std/carpet: image AUROC 100.0  pixel AUROC 99.0  (10% coreset)  16-shot 100.0  [73 s]
+convnext_t_std/grid: image AUROC 95.7  pixel AUROC 96.7  (10% coreset)  16-shot 71.3  [52 s]
+convnext_t_std/hazelnut: image AUROC 100.0  pixel AUROC 98.7  (10% coreset)  16-shot 100.0  [103 s]
+convnext_t_std/leather: image AUROC 100.0  pixel AUROC 98.9  (10% coreset)  16-shot 100.0  [65 s]
+convnext_t_std/metal_nut: image AUROC 99.9  pixel AUROC 98.3  (10% coreset)  16-shot 98.7  [51 s]
+convnext_t_std/pill: image AUROC 95.3  pixel AUROC 98.1  (10% coreset)  16-shot 94.2  [77 s]
+convnext_t_std/screw: image AUROC 95.3  pixel AUROC 98.8  (10% coreset)  16-shot 69.6  [86 s]
+convnext_t_std/tile: image AUROC 98.9  pixel AUROC 95.4  (10% coreset)  16-shot 98.9  [57 s]
+convnext_t_std/toothbrush: image AUROC 96.1  pixel AUROC 98.3  (10% coreset)  16-shot 95.6  [15 s]
+convnext_t_std/transistor: image AUROC 100.0  pixel AUROC 97.8  (10% coreset)  16-shot 99.5  [53 s]
+convnext_t_std/wood: image AUROC 99.4  pixel AUROC 94.5  (10% coreset)  16-shot 99.3  [55 s]
+convnext_t_std/zipper: image AUROC 97.5  pixel AUROC 95.9  (10% coreset)  16-shot 91.7  [64 s]
+wrn50/bottle: top channel 407 holds 1.2% of the variance, max |value| 1 (median channel 0.3)
+wrn50/cable: top channel 66 holds 0.6% of the variance, max |value| 1 (median channel 0.4)
+wrn50/capsule: top channel 608 holds 1.7% of the variance, max |value| 1 (median channel 0.3)
+wrn50/carpet: top channel 1334 holds 0.8% of the variance, max |value| 1 (median channel 0.2)
+wrn50/grid: top channel 728 holds 5.2% of the variance, max |value| 2 (median channel 0.3)
+wrn50/hazelnut: top channel 1176 holds 0.6% of the variance, max |value| 1 (median channel 0.5)
+wrn50/leather: top channel 868 holds 1.2% of the variance, max |value| 1 (median channel 0.2)
+wrn50/metal_nut: top channel 978 holds 0.8% of the variance, max |value| 1 (median channel 0.4)
+wrn50/pill: top channel 957 holds 1.0% of the variance, max |value| 1 (median channel 0.3)
+wrn50/screw: top channel 1169 holds 0.8% of the variance, max |value| 2 (median channel 0.4)
+wrn50/tile: top channel 223 holds 0.9% of the variance, max |value| 1 (median channel 0.3)
+wrn50/toothbrush: top channel 687 holds 1.2% of the variance, max |value| 1 (median channel 0.3)
+wrn50/transistor: top channel 1388 holds 1.1% of the variance, max |value| 1 (median channel 0.4)
+wrn50/wood: top channel 1132 holds 0.7% of the variance, max |value| 1 (median channel 0.3)
+wrn50/zipper: top channel 1181 holds 3.4% of the variance, max |value| 2 (median channel 0.2)
+convnext_t/bottle: top channel 223 holds 69.2% of the variance, max |value| 836 (median channel 4.5)
+convnext_t/cable: top channel 223 holds 92.0% of the variance, max |value| 1085 (median channel 5.6)
+convnext_t/capsule: top channel 223 holds 95.7% of the variance, max |value| 1428 (median channel 4.8)
+convnext_t/carpet: top channel 223 holds 97.5% of the variance, max |value| 1202 (median channel 3.5)
+convnext_t/grid: top channel 223 holds 93.6% of the variance, max |value| 1262 (median channel 4.0)
+convnext_t/hazelnut: top channel 223 holds 95.2% of the variance, max |value| 1535 (median channel 5.5)
+convnext_t/leather: top channel 223 holds 96.0% of the variance, max |value| 1361 (median channel 3.6)
+convnext_t/metal_nut: top channel 223 holds 85.2% of the variance, max |value| 1140 (median channel 5.7)
+convnext_t/pill: top channel 223 holds 88.1% of the variance, max |value| 1097 (median channel 4.8)
+convnext_t/screw: top channel 223 holds 94.6% of the variance, max |value| 1697 (median channel 5.8)
+convnext_t/tile: top channel 223 holds 92.9% of the variance, max |value| 1026 (median channel 3.8)
+convnext_t/toothbrush: top channel 223 holds 96.9% of the variance, max |value| 1517 (median channel 4.4)
+convnext_t/transistor: top channel 223 holds 87.8% of the variance, max |value| 1109 (median channel 5.1)
+convnext_t/wood: top channel 223 holds 90.8% of the variance, max |value| 968 (median channel 3.9)
+convnext_t/zipper: top channel 223 holds 93.6% of the variance, max |value| 1143 (median channel 4.2)
+dinov2_s/bottle: top channel 662 holds 4.1% of the variance, max |value| 10 (median channel 0.7)
+dinov2_s/cable: top channel 753 holds 1.6% of the variance, max |value| 3 (median channel 0.7)
+dinov2_s/capsule: top channel 662 holds 2.3% of the variance, max |value| 8 (median channel 0.7)
+dinov2_s/carpet: top channel 463 holds 3.2% of the variance, max |value| 8 (median channel 0.6)
+dinov2_s/grid: top channel 662 holds 1.9% of the variance, max |value| 7 (median channel 0.7)
+dinov2_s/hazelnut: top channel 501 holds 1.4% of the variance, max |value| 6 (median channel 0.8)
+dinov2_s/leather: top channel 662 holds 3.4% of the variance, max |value| 8 (median channel 0.6)
+dinov2_s/metal_nut: top channel 662 holds 1.8% of the variance, max |value| 9 (median channel 0.7)
+dinov2_s/pill: top channel 538 holds 1.5% of the variance, max |value| 3 (median channel 0.7)
+dinov2_s/screw: top channel 662 holds 1.3% of the variance, max |value| 9 (median channel 0.8)
+dinov2_s/tile: top channel 662 holds 3.3% of the variance, max |value| 8 (median channel 0.6)
+dinov2_s/toothbrush: top channel 522 holds 4.8% of the variance, max |value| 6 (median channel 0.6)
+dinov2_s/transistor: top channel 662 holds 2.6% of the variance, max |value| 10 (median channel 0.6)
+dinov2_s/wood: top channel 463 holds 2.7% of the variance, max |value| 9 (median channel 0.7)
+dinov2_s/zipper: top channel 463 holds 1.9% of the variance, max |value| 8 (median channel 0.7)
+| backbone | variance held by the top channel (mean, min to max over 15 categories) | top channel | its max abs value | typical channel's max abs value |
+|---|---|---|---|---|
+| WideResNet-50 | 1.4% (0.6 to 5.2%) | 66, 223, 407, 608, 687, 728, 868, 957, 978, 1132, 1169, 1176, 1181, 1334, 1388 | 1 | 0.3 |
+| ConvNeXt-T | 91.3% (69.2 to 97.5%) | 223 | 1143 | 4.5 |
+| DINOv2 ViT-S/14 | 2.5% (1.3 to 4.8%) | 463, 501, 522, 538, 662, 753 | 8 | 0.7 |
+## Per category, 10% coreset (image AUROC / pixel AUROC, %)
+
+| category | WideResNet-50 (paper) image / pixel | ConvNeXt-T image / pixel | ConvNeXt-T, standardised image / pixel | DINOv2 ViT-S/14 image / pixel |
+|---|---|---|---|---|
+| bottle | 100.0 / 98.3 | 100.0 / 97.3 | 100.0 / 98.1 | 100.0 / 97.6 |
+| cable | 99.7 / 98.5 | 99.0 / 97.7 | 99.8 / 98.2 | 95.7 / 95.0 |
+| capsule | 97.5 / 98.7 | 86.7 / 97.9 | 95.1 / 98.7 | 93.7 / 97.7 |
+| carpet | 98.8 / 98.8 | 100.0 / 98.9 | 100.0 / 99.0 | 99.9 / 98.8 |
+| grid | 97.7 / 97.6 | 83.0 / 94.1 | 95.7 / 96.7 | 99.0 / 96.4 |
+| hazelnut | 100.0 / 98.4 | 100.0 / 98.5 | 100.0 / 98.7 | 99.8 / 99.0 |
+| leather | 100.0 / 99.1 | 100.0 / 98.1 | 100.0 / 98.9 | 100.0 / 97.5 |
+| metal_nut | 99.9 / 98.5 | 98.2 / 96.7 | 99.9 / 98.3 | 99.5 / 98.0 |
+| pill | 94.7 / 97.6 | 91.3 / 97.2 | 95.3 / 98.1 | 96.0 / 98.3 |
+| screw | 98.1 / 98.9 | 94.3 / 95.9 | 95.3 / 98.8 | 90.0 / 92.0 |
+| tile | 98.6 / 95.3 | 98.8 / 93.8 | 98.9 / 95.4 | 99.6 / 94.1 |
+| toothbrush | 99.4 / 98.6 | 90.0 / 97.1 | 96.1 / 98.3 | 98.3 / 97.7 |
+| transistor | 99.8 / 97.7 | 99.4 / 98.0 | 100.0 / 97.8 | 95.2 / 96.8 |
+| wood | 99.0 / 93.8 | 99.8 / 91.3 | 99.4 / 94.5 | 98.9 / 91.4 |
+| zipper | 99.4 / 98.3 | 88.8 / 92.0 | 97.5 / 95.9 | 99.2 / 93.2 |
+| **mean** | **98.8 / 97.9** | **95.3 / 96.3** | **98.2 / 97.7** | **97.6 / 96.2** |
+
+## Coreset size: accuracy vs memory vs speed (means over categories; ms = nearest-neighbour scoring per test image, backbone forward pass not included)
+
+| backbone | coreset | mean image AUROC | mean pixel AUROC | mean bank size (patches) | ms / image |
+|---|---|---|---|---|---|
+| WideResNet-50 (paper) | 1% | 98.7 | 97.7 | 1,896 | 6.0 |
+| WideResNet-50 (paper) | 10% | 98.8 | 97.9 | 18,967 | 39.6 |
+| ConvNeXt-T | 1% | 94.3 | 95.0 | 1,896 | 2.9 |
+| ConvNeXt-T | 10% | 95.3 | 96.3 | 18,967 | 14.2 |
+| ConvNeXt-T, standardised | 1% | 98.2 | 97.6 | 1,896 | 2.9 |
+| ConvNeXt-T, standardised | 10% | 98.2 | 97.7 | 18,967 | 14.1 |
+| DINOv2 ViT-S/14 | 1% | 97.1 | 95.6 | 619 | 1.2 |
+| DINOv2 ViT-S/14 | 10% | 97.6 | 96.2 | 6,193 | 2.2 |
+
+## Few-shot: mean image AUROC with k good training images (3 random draws)
+
+| backbone | 1-shot | 2-shot | 4-shot | 8-shot | 16-shot | all images (10% coreset) |
+|---|---|---|---|---|---|---|
+| WideResNet-50 (paper) | 84.3 | 86.6 | 89.1 | 92.1 | 94.0 | 98.8 |
+| ConvNeXt-T | 68.7 | 75.9 | 81.0 | 85.9 | 88.7 | 95.3 |
+| ConvNeXt-T, standardised | 85.5 | 86.8 | 89.6 | 91.8 | 93.6 | 98.2 |
+| DINOv2 ViT-S/14 | 88.8 | 90.3 | 91.8 | 93.7 | 94.8 | 97.6 |
+
+## Feature variance per channel (good training patches; tools/feature_stats.py)
+
+| backbone | variance held by the top channel (mean, min to max over 15 categories) | top channel | its max abs value | typical channel's max abs value |
+|---|---|---|---|---|
+| WideResNet-50 | 1.4% (0.6 to 5.2%) | 66, 223, 407, 608, 687, 728, 868, 957, 978, 1132, 1169, 1176, 1181, 1334, 1388 | 1 | 0.3 |
+| ConvNeXt-T | 91.3% (69.2 to 97.5%) | 223 | 1143 | 4.5 |
+| DINOv2 ViT-S/14 | 2.5% (1.3 to 4.8%) | 463, 501, 522, 538, 662, 753 | 8 | 0.7 |
+
+figures in results/figures/

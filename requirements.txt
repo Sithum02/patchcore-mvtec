@@ -1,0 +1,8 @@
+torch>=2.1
+torchvision
+timm>=1.0
+scikit-learn
+numpy
+pillow
+matplotlib
+huggingface_hub   # to download MVTec AD (Voxel51/mvtec-ad)
